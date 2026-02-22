@@ -1,0 +1,8 @@
+{
+    "name": "Quartermaster",
+    "icon": "🗺️",
+    "description": "Inspects web addresses for embedded videos and logs their duration. Feed it links, and it plunders the runtime from each.",
+    "version": "1.0.0",
+    "status": "active",
+    "author": "Loop Skywalker"
+}
